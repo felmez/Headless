@@ -11,7 +11,7 @@
     -   yarn install
     -   cd mage2vs/src 
     -   npm install
-    -   edit src/config.js file in your mage2vuestorefront directory and provide magento_url, consumerKey, consumerSecret, accessToken, accessTokenSecret key.
+    -   edit src/config.js file in your mage2vs directory and provide magento_url, consumerKey, consumerSecret, accessToken, accessTokenSecret key.
     -   To import all the Products, Categories and other important stuff to your Elastic Search instance you should run the following commands
 			node cli.js taxrule
 			node cli.js attributes
